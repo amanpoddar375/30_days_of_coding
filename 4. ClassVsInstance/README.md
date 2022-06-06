@@ -5,6 +5,7 @@ Sample Input
 10
 16
 18
+
 Sample Output
 
 Age is not valid, setting age to 0.

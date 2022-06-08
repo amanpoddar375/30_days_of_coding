@@ -3,10 +3,13 @@ Given a string, S, of length N that is indexed from 0 to N-1, print its even-ind
 Sample Input
 
 2
+
 Hacker
+
 Rank
 
 Sample Output
 
 Hce akr
+
 Rn ak
